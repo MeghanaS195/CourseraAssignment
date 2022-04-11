@@ -21,17 +21,6 @@ p {
 
 }
 
-
-span{
-  border: 1px solid black;
-  text-align: center;
-  width: 25%;
-  height: 15%;   
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-
 .chicken{
   background-color: #F0B2B9;
 }
@@ -47,8 +36,7 @@ span{
   border: 1px solid black;
   background-color: pink;
   text-align: center;
-  width: 25%;
-  height: 15%;    
+  width: 25%;  
   position: absolute;
   right: 0;
   top: 0;
